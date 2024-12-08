@@ -3,3 +3,4 @@ requests
 numpy
 scikit-learn
 matplotlib
+fastapi
